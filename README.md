@@ -9,7 +9,7 @@ In this project, we implement a TCP server in Python that listens for incoming c
 1. Start the server by running `server.py`.
     ```
     python server.py
-    ``
+    ```
 2. The server will start listening on localhost and a port specified in the script (`65432` by default).
 
 ### Client
